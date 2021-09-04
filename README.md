@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiah-brown
 - 👀 I’m interested in becoming a freelance web developer
-- 🌱 I’m currently learning all things Python!
+- 🌱 I’m currently learning all things Python, HTML, and CSS!
 - 📫 How to reach me: josiahbrown321@gmail.com
 
 <!---
