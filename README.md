@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiah-brown
-- 👀 I’m interested in all things web development but am focusing on front-end.
-- 🌱 I’m currently learning ReactJS. I also enjoy doing genertaive art in my freetime.
+- 👀 I’m a React web developer with a background in electrical and computer engineering.
+- 🌱 I enjoy creative coding in my free time ([view my art ->](https://www.instagram.com/josiah.webdev/)).
 - 💞️ I’m looking to collaborate on interesting and creative web apps.
 - 📫 How to reach me: josiah.webdev@gmail.com
 
