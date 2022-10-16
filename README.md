@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josiah-brown
-- 👀 I’m a React web developer with a background in electrical and computer engineering.
+- 👀 I’m a React developer with a background in electrical and computer engineering.
 - 🌱 I enjoy creative coding in my free time ([view my art ->](https://www.instagram.com/josiah.webdev/)).
 - 💞️ I’m looking to collaborate on interesting and creative web apps.
 - 📫 How to reach me: josiah.webdev@gmail.com
