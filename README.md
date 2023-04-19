@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josiah-brown. View my portfolio at [josiahbrown.com](https://josiahbrown.com)
 - 👀 I’m a full-stack developer with a background in electrical and computer engineering.
-- 🌱 I enjoy creative coding in my free time ([view my art ->](https://www.instagram.com/josiah.webdev/)).
+- 🌱 I enjoy creative coding in my free time ([view my art ->](https://www.instagram.com/josiah___brown/)).
 - 📫 How to reach me: josiah.webdev@gmail.com
 
 <!---
